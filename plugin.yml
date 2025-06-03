@@ -18,6 +18,6 @@ commands:
     description: Opens settings GUI
   market:
     description: Opens the market GUI
-  ah:
+  ah:  
     description: Opens the auction house GUI
 permissions: []
