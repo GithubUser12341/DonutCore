@@ -1,0 +1,23 @@
+﻿name: DonutCore
+version: 1.0
+main: donutcore.DonutCore
+api-version: 1.16
+description: Core plugin for Donut SMP featuring shops, AFK toggles, economy and more.
+commands:
+  shop:
+    description: Opens the shop GUI
+  balance:
+    description: Checks your balance
+  help:
+    description: Opens the help menu
+  spawn:
+    description: Teleports you to spawn
+  afk:
+    description: Toggles AFK mode
+  settings:
+    description: Opens settings GUI
+  market:
+    description: Opens the market GUI
+  ah:
+    description: Opens the auction house GUI
+permissions: []
